@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chris! 
+<h1>Hi, I'm Chris! <br>
 IT Proffessional, Cloud and Cyber Security Enthusiast. </h1>
   
 <h2>👨‍💻Projects:</h2>
