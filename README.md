@@ -6,7 +6,7 @@ IT Proffessional, Cloud and Cyber Security Enthusiast. </h1>
 - <b>Cloud Projects:</b>
   - [Creating a Honeynet + SOC in Azure](https://github.com/krzysztof-cloud/Azure-Honeynet-SOC)
 - <b>Cyber Security Projects:</b>
-  - [Vulnurability Management with Qualys in a Home Lab]
+  - [Vulnurability Management with Qualys in a Home Lab](https://github.com/krzysztof-cloud/qualys-vulnerability-management-home-lab)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
